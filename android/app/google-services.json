@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331426257007",
+    "firebase_url": "https://prakflutterfirebase-be10e-default-rtdb.firebaseio.com",
+    "project_id": "prakflutterfirebase-be10e",
+    "storage_bucket": "prakflutterfirebase-be10e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331426257007:android:2827fad779dc68dd6a159a",
+        "android_client_info": {
+          "package_name": "com.example.praktikum6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331426257007-m0g5qtv3e8daetgskrq5msp7iom2chpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdGZ_tpYzy1gxYVNr9nRQhQ8M3BBEWN7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331426257007-m0g5qtv3e8daetgskrq5msp7iom2chpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
